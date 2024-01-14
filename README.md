@@ -52,7 +52,7 @@ Recipient of University Academic Excellence Scholarship
 
 
 # 📬 Get in Touch
-LinkedIn: [Alireza Seydi](https://www.linkedin.com/in/alireza-seydi-0155212aa/) 💼
+LinkedIn: [Alireza Seydi](https://www.linkedin.com/in/alireza-seydi/) 💼
 
 Personal Website:  [Website💻](https://cogniepoch.github.io/AlirezaSeydi.github.io/)
 
