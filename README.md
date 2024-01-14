@@ -58,4 +58,4 @@ Personal Website:  [Website💻](https://cogniepoch.github.io/AlirezaSeydi.githu
 
 Email: alirezaseydi20@gmail.com ✉️
 
-[^1]: Last 2 years
+[^1]: GPA for Last 2 years
