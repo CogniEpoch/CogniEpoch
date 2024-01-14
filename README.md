@@ -10,9 +10,9 @@ Driven to make a positive impact through innovative technologies.
 
 Ranked in top 5% 🥇 on competitive national exam.
 
-Strong academic record - graduated with total 16.16 GPA out of 20 ⭐️
+Strong academic record - GPA 18.332 out of 20 ⭐️ [^1]
 
-Diverse technical skills ranging from C++, Java, Python to AI and machine learning
+Diverse technical skills ranging from Python, C++, Java to AI and machine learning
 
 # ⚙️ Technical Skills
 Languages: Python 🐍, Java ☕, C++, React Native
@@ -50,9 +50,12 @@ Awarded Full University Scholarship for achievements on entrance exam
 
 Recipient of University Academic Excellence Scholarship
 
+
 # 📬 Get in Touch
 LinkedIn:  💼
 
 Personal Website:  [Website💻](https://cogniepoch.github.io/AlirezaSeydi.github.io/)
 
 Email: alirezaseydi20@gmail.com ✉️
+
+[^1]: Last 2 years
