@@ -36,13 +36,16 @@ Oversaw team of 30+ builders. Organized materials and optimized project timeline
 
 
 # 💻 Projects
-Bitcoin Price Prediction - [GitHub]()
+Bitcoin Price Prediction - [GitHub](https://github.com/CogniEpoch/BTC-predicter)
 
-Developed LSTM neural network model 🧠 in Python to forecast BTC prices based on historical data.
+ - Developed LSTM neural network model 🧠 in Python to forecast BTC prices based on historical data.
 
-Arduino Automated Irrigation System [GitHub]()
+Arduino Automated Irrigation System [GitHub](https://github.com/CogniEpoch/Smart-Irrigation-System-with-Arduino)
 
-Built a moisture sensor based irrigation system 🌱 using an Arduino Uno.
+ - Built a moisture sensor based irrigation system 🌱 using an Arduino Uno .
+ - The system controls irrigation lines with valves and water pumps based on soil moisture levels, with water level detection, and SMS notifications using a SIM800L module.
+
+And many others on my repo - [Repositories](https://github.com/CogniEpoch?tab=repositories)
 
 
 # 🏆 Accomplishments
