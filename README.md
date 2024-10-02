@@ -44,19 +44,15 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
   <img src="https://img.shields.io/badge/-GitHub_Actions-0000?style=for-the-badge&logo=github-actions&logoColor=blue&color=white"/>
   <img src="https://img.shields.io/badge/-GitLab_CI/CD-59498b?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  
   <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
   <!-- Monitoring -->
   <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
-
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  
   <!-- Embedded Systems -->
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
