@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Alireza Seydi
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=300&pause=1000&color=00A909&width=435&lines=Welcome+to+my+Github+Profile!;I'm+an+Experienced+DevOps+Engineer;AI+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 
 I’m a **Computer Engineering graduate** and an experienced **DevOps Engineer** with a focus on building scalable, secure, and highly optimized infrastructures. My expertise lies in orchestrating complex systems, streamlining CI/CD processes, and driving automation across development and operational environments.
@@ -29,11 +29,18 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
 - **Frameworks**: PyTorch, TensorFlow, Scikit-learn  
 - **Specialties**: Neural networks, computer vision 👀, NLP  
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0b5394?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash_Scripting-5b5b5b?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DevOps-fff355?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-
-## 💼 **Professional Experience & Private Projects**
+<details>
+  <summary>💼 Professional Experience & Projects</summary>
 
 1. **Full System Migration and Optimization**  
    - Migrated a complex system with three frontends, three backends, and three large databases from shared hosting to VPS.  
@@ -77,13 +84,15 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
 13. **Hobby Projects**  
     - I have a passion for building innovative solutions using Arduino or electronics and have developed several creative projects available in my GitHub Repositories. 
 
+</details>
+
 ---
 
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [Alireza Seydi](https://www.linkedin.com/in/alireza-seydi/) 💼  
+- **LinkedIn**: [Alireza Seydi 💼](https://www.linkedin.com/in/alireza-seydi/)   
 - **Personal Website**: [Website 💻](https://cogniepoch.github.io/AlirezaSeydi.github.io/)  
-- **Email**: [alirezaseydi20@gmail.com](mailto:alirezaseydi20@gmail.com) ✉️  
+- **Email**: [alirezaseydi20@gmail.com ✉️](mailto:alirezaseydi20@gmail.com)  
 
 Feel free to reach out if you'd like to discuss DevOps, cloud infrastructure, or collaboration opportunities!
