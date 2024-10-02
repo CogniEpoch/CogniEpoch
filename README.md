@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=300&pause=1000&color=00A909&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Alireza+Seydi;Welcome+to+my+Github+Profile!;I'm+an+Experienced+DevOps+Engineer;AI+Enthusiast;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=300&pause=800&color=00A909&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Alireza+Seydi;Welcome+to+my+Github+Profile!;I'm+an+Experienced+DevOps+Engineer;AI+Enthusiast;Always+Learning+New+Tech)
 <details>
 <summary> 👨‍💻 About Me </summary>
 
