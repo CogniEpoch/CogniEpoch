@@ -116,7 +116,7 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
 ## 📬 Get in Touch
 
 - **LinkedIn**: [Alireza Seydi 💼](https://www.linkedin.com/in/alireza-seydi/)   
-- **Personal Website**: [Website 💻](https://cogniepoch.github.io/AlirezaSeydi.github.io/)  
+- **Personal Website**: [Website 💻](https://)  
 - **Email**: [alirezaseydi20@gmail.com ✉️](mailto:alirezaseydi20@gmail.com)  
 
 Feel free to reach out if you'd like to discuss DevOps, cloud infrastructure, or collaboration opportunities!
