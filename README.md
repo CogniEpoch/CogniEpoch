@@ -120,3 +120,5 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
 - **Email**: [alirezaseydi20@gmail.com ✉️](mailto:alirezaseydi20@gmail.com)  
 
 Feel free to reach out if you'd like to discuss DevOps, cloud infrastructure, or collaboration opportunities!
+### 👀 Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CogniEpoch.visitor-badge)
+
