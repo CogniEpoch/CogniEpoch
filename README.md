@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Alireza Seydi
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=300&pause=1000&color=00A909&width=435&lines=Welcome+to+my+Github+Profile!;I'm+an+Experienced+DevOps+Engineer;AI+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=300&pause=1000&color=00A909&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Alireza+Seydi;Welcome+to+my+Github+Profile!;I'm+an+Experienced+DevOps+Engineer;AI+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<details>
+<summary> 👨‍💻 About Me </summary>
 
 I’m a **Computer Engineering graduate** and an experienced **DevOps Engineer** with a focus on building scalable, secure, and highly optimized infrastructures. My expertise lies in orchestrating complex systems, streamlining CI/CD processes, and driving automation across development and operational environments.
 
 I’m proficient in **Python** and **bash scripting**, and have a strong background in **cloud computing**, **containerization**, and **system performance tuning**. While my core focus is on DevOps engineering, I’m also passionate about **Artificial Intelligence** and its transformative impact on automation and intelligent monitoring.
-
+</details>
 
 ---
 
 
-## ⚙️ Technical Skills
+## ⚙️ Technical Skills 
 
 ### 🛠️ **DevOps & Cloud Tools**
 - **Containerization & Orchestration**: Docker 🐳, Kubernetes ☸️, Helm  
@@ -29,13 +29,41 @@ I’m proficient in **Python** and **bash scripting**, and have a strong backgro
 - **Frameworks**: PyTorch, TensorFlow, Scikit-learn  
 - **Specialties**: Neural networks, computer vision 👀, NLP  
 
+
+
 ---
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/-Python-0b5394?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bash_Scripting-5b5b5b?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-DevOps-fff355?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- DevOps Tools -->
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-0000?style=for-the-badge&logo=github-actions&logoColor=blue&color=white"/>
+  <img src="https://img.shields.io/badge/-GitLab_CI/CD-59498b?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  
+  <!-- Cloud Platforms -->
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+  <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  
+  <!-- Embedded Systems -->
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 </p>
+
+---
+
 
 ---
 
